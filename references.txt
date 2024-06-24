@@ -1,0 +1,19 @@
+---------------- Image predictor ----------------
+https://github.com/YukaiDing/STA-LSTM/tree/main
+https://www.sciencedirect.com/science/article/pii/S0022169422003237
+https://chat.openai.com/share/c739be3f-b7f2-4d02-8ddc-1312ca32f4d1
+   - Used to modify the class in "Image_notebook.ipynb"
+
+---------------- Wind predictor ----------------
+https://github.com/drivendataorg/wind-dependent-variables/tree/main/2nd_Place
+
+https://chat.openai.com/share/22f4f7de-14f2-4ede-8412-01ffbcaad198
+    - Used in `windspeed_explore.ipynb` about how to solve the problem that LSTM models predict the same value.
+
+---------------- Other ----------------
+
+https://chat.openai.com/share/e2e94e48-0974-4bcb-a713-690f3bec8b15: 
+    - Used in `Training_Data_EDA.ipynb` to inform image inpaint code
+
+https://chat.openai.com/share/1f882310-837e-40d1-8237-35f8355a7855
+    - Referenced for the creation of a custom dataset in `Training_Data_EDA.ipynb` to help us inspect the data in the EDA
